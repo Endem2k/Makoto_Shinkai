@@ -66,9 +66,9 @@ body {
 .head__logo {
   font-size: 45px;
   padding-top: 10px;
-  z-index: 3;
-  border-bottom: 
+  z-index: 3; 
 }
+
 .head-name__line {
   border-top: 2px solid white;
   border-radius: 10px;
